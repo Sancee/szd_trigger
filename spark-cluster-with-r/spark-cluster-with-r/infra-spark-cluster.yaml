@@ -15,5 +15,3 @@ nodes:
 dependencies:
   -
     connection: [ *W, *M ]
-
-dasda
