@@ -1,5 +1,5 @@
 infra_name: spark-cluster
-user_id: somebody@somewhere
+user_id: gyeness97@gmail.com
 
 nodes:
   - &M
